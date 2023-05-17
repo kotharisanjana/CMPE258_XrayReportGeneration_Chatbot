@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environment
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Logs
+*.log
+
+# Local configuration
+local_config.py
+
+# Dependency directories
+/.venv
+/.env
+
+
+# Files and Folders
+Code/config.py
+Logs
+Models
