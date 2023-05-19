@@ -35,7 +35,7 @@ https://openi.nlm.nih.gov/imgs/collections/NLMCXR_reports.tgz
 2. Add chest x-ray images in Images folder and reports in Reports folder at root level.
 3. Add OpenAI api key to config.py in Code folder.
 4. Install requiremnts.txt
-5. To run, navigating into the Code folder and use 'streamlit run frontend.py
+5. To run, navigate into the Code folder and use 'streamlit run frontend.py'
 
 #### Models
 https://drive.google.com/drive/folders/1kqEZm906iXJefqE7o03wycBx2D2jw12w?usp=share_link
